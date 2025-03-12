@@ -5,4 +5,4 @@
 Para ejecutar el sistema, debes poner:
 
 ```npm install react```
- 
+ sistema 2
